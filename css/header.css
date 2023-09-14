@@ -1,0 +1,16 @@
+.header__nav ul{
+    display : flex;
+}
+
+.header__nav-item{
+    margin-right: 30px;
+    font-size: 14 px;
+}
+
+.header{
+    display : flex;
+}
+
+.logo-image{
+    margin-left: 540px;
+}
