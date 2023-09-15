@@ -1,0 +1,37 @@
+body{
+    font-family: "Mulish";
+    color : #7D7987;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 1110px;
+}
+
+a{
+    text-decoration: none;
+    color :#1F1534;
+}
+
+li{
+    display: block;
+}
+
+.button{
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: inherit;
+}
+
+ul{
+    display:flex;
+    justify-content: center;
+}
+
+.buttonv{
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+
+}

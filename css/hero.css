@@ -1,0 +1,32 @@
+.hero_title{
+    font-weight: 500;
+    font-size: 35px;
+    color: #000000;
+
+}
+.hero_paragraph{
+    color:#7D7987;
+    font-size: 25px;
+    width:360px;
+}
+
+.hero_button{
+    margin-top:44px;
+    
+}
+
+.hero_inner{
+  padding-top: 100px;
+  width: 241px;
+  padding-bottom: 290px ;
+}
+
+.hero {
+    background-image: url(../images/trafalgar-ill.svg);
+    background-repeat: no-repeat; 
+    background-position: right; 
+    
+  }
+.hero_underspace{
+    color: #000000;
+}

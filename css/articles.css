@@ -1,0 +1,39 @@
+.article-item{
+    margin: 0 34px;
+    
+}
+
+.art-header{
+    color:#000000;
+
+}
+
+.art-text{
+    color: #7D7987;
+}
+
+.art-button{
+    color:  #4089ED;
+    font-weight: 500;
+    font-size: large;
+}
+
+.viewall_button{
+    margin-top: 72px;
+    margin-bottom: 280px;
+}
+
+.articles {
+    background-image: url(../images/art_back.svg);
+    background-repeat: no-repeat; 
+    background-position: right -20% top -10%; 
+    overflow: hidden;
+  }
+
+.news{
+    background-color:white;
+    background-image: url(../images/form_art.svg);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+

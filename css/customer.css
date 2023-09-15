@@ -1,0 +1,42 @@
+.customer{
+    background-image: url(../images/custom_back.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 30px;
+    size: 1000px;
+    margin-bottom: 70px;
+}
+
+.head{
+    color:white;
+    padding-top:30px;
+}
+ 
+.photo_cust{
+    margin-left: 118px;
+    padding-top:50px;
+    margin-bottom: 80px;
+}
+
+.cust_name{
+    color:white;
+    margin-left:30px;
+    padding-top :60px;
+    padding-right:100px;
+    white-space: nowrap;
+}
+
+.cust_title{
+    color:white;
+    margin-left:30px;
+    margin-top:10px;
+    white-space: nowrap;
+    padding-right:100px;
+}
+
+.cust_text{
+    color:white;
+    padding-top :40px;
+    padding-right:100px;
+
+}

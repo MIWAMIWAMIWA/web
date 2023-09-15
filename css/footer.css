@@ -1,0 +1,62 @@
+.vector{
+    margin: 0 40px; 
+
+}
+
+.bottom_rectangle {
+    margin: 0 auto;
+    max-width: 1600px;
+    width: 1600px;
+    height: 165px;
+    background: linear-gradient(183deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    display: flex;
+
+}
+
+.logo {
+    display: flex;
+    margin-top: 69px;
+    background-image: url(../Images/element.svg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.white_circle_contaier {
+    width: 41px;
+    height: 41px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 228px;
+    margin-top: 5px;
+}
+
+.white_circle_contaier .letter {
+    color: #5B9BF3;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.logo .title {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.footer__nav ul {
+    margin-top: 60px;
+    margin-right: 189px;
+    margin-left: 150px;
+    display: flex;
+}
+.footer__nav-item3 a {
+    margin-left: 160px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 60px;
+    color: white;
+}
