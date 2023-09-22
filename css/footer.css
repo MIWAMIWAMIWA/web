@@ -33,7 +33,9 @@
 }
 
 .footer__nav--item a:hover {
-    color: black;
+    color: darkblue;
+    opacity: 130%;
+    font-weight: 600;
 }
 
 @media screen and (max-width: 958px) {

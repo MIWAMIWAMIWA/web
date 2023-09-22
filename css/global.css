@@ -79,8 +79,7 @@ hr {
     cursor: pointer;
 }
 
-
 .buttonv:hover{
     animation-name: vector_zoom;
-    animation-duration: 1s;
+    animation-duration: 10s;
 }
