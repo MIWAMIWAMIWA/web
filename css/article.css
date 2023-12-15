@@ -16,6 +16,7 @@
 }
 .article__title {
     text-align: center;
+    weight:800px;
 }
 .article__line {
     margin: 0 auto;
@@ -35,6 +36,12 @@
     color: #4089ED;
     text-decoration: none;
 }
+
+.article a:hover{
+    opacity: 130%;
+    font-weight: 600;
+}
+
 .article__card__text {
     margin: 29px 50px 42px 35px;
     padding-bottom: 42px;
@@ -78,7 +85,11 @@
     }
 }
 
-.article__card__image:hover{
+.article__card:hover{
     animation-name: article_zoom;
     animation-duration: 5s;
+}
+
+.article_text{
+    font-size:18px;
 }

@@ -3,7 +3,7 @@
         transform: scale(100%);
     }
     50% {
-        transform: scale(150%);
+        transform: scale(120%);
     }
     100% {
         transform: scale(100%);
@@ -14,12 +14,42 @@
     0% {
         transform: scale(100%);
     }
+    10% {
+        transform: scale(130%);
+    }
+
+    20% {
+        transform: scale(100%);
+    }
+
+    30% {
+        transform: scale(130%);
+    }
+
+    40% {
+        transform: scale(100%);
+    }
+
     50% {
         transform: scale(130%);
     }
-    100% {
-        transform: scale(150%);
+    60% {
+        transform: scale(100%);
     }
+    70% {
+        transform: scale(130%);
+    }
+    80% {
+        transform: scale(100%);
+    }
+    90% {
+        transform: scale(130%);
+    }
+    100% {
+        transform: scale(100%);
+    }
+
+   
 }
 
 @keyframes customer_zoom {
@@ -27,10 +57,10 @@
         transform: scale(100%);
     }
     50% {
-        transform: scale(130%);
+        transform: scale(115%);
     }
     100% {
-        transform: scale(150%);
+        transform: scale(130%);
     }
 }
 
